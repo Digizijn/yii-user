@@ -125,6 +125,7 @@ return array(
     'You account is active.' => 'Su cuenta está activa.',
     'You account is blocked.' => 'Su cuenta está bloqueada.',
     'You account is not activated.' => "Su cuenta no está activada.",
+    'You may optionally enter a comparison operator (<b>&lt;</b>, <b>&lt;=</b>, <b>&gt;</b>, <b>&gt;=</b>, <b>&lt;&gt;</b> or <b>=</b>) at the beginning of each of your search values to specify how the comparison should be done.' => 'Opcionalmente puedes capturar un operador de comparación (<b>&lt;</b>, <b>&lt;=</b>, <b>&gt;</b>, <b>&gt;=</b>, <b>&lt;&gt;</b> o <b>=</b>) al inicio de cada valor de búsqueda para especificar cómo se debe realizar la comparación.',
     'You registered from {site_name}' => 'Se registró a partir {site_name}',
     'Your profile' => 'Su perfil',
 );
